@@ -1,0 +1,1 @@
+ALTER TABLE `shop_settings` ADD `payment_config` text;
